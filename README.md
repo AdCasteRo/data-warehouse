@@ -1,5 +1,3 @@
-IMPORTANT: THIS PROJECT WAS SUBMITTED, REVIEWED AND ACCEPTED ON THE 25/03/2021. THIS RESUBMISSION IS BECAUSE NOW THE PROJECT APPEARS AS "UNSUBMITED". IT SEEMS TO BE A BUG ACCORDING TO THE MENTORS.
-
 # DATA WAREHOUSE
 
 The project "Data Warehouse" consists on two python scripts, one sql document and one congif archive. Due to the necesities of the project, I've added one Jupyter Notebook to open and close the Redshift cluster and a debuf python script to show the errors.
